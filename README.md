@@ -2,7 +2,7 @@
 boro implemented some algorithms
 
 # a little 🤏 bit of context
-I'v been reading Introduction to Algorithms (MIT Press) by Thomas H. Cormen, Charles E. Leiserson, Ronald Rivest & Clifford Stein. Every code writter in this repo is my "note taking" from that book
+I'v been reading ![Introduction to Algorithms](https://www.amazon.com/-/es/Thomas-H-Cormen/dp/0262033844) (MIT Press) by Thomas H. Cormen, Charles E. Leiserson, Ronald Rivest & Clifford Stein. Every code writter in this repo is my note taking.
 
 
 # what's looking good:
